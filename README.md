@@ -11,3 +11,6 @@
 
 4. Open
 ~/node-express$ eb open
+
+5. Clean Up
+~/node-express$ eb terminate
